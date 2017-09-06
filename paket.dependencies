@@ -1,0 +1,6 @@
+//version 5.89.4
+framework: netcoreapp2.0
+source https://api.nuget.org/v3/index.json
+
+clitool FAKE
+nuget Moq

@@ -1,0 +1,5 @@
+RESTRICTION: == netcoreapp2.0
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    FAKE (4.63) - clitool: true
+    Moq (4.7.99)
